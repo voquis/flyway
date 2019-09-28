@@ -1,2 +1,2 @@
-# flyway
-Flyway database migration
+# Introduction
+Flyway database migration utility with sh entrypoint.
